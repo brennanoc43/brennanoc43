@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brennanoc43
-- 👀 I’m interested in data science, programming, and simulation models.
+- 👀 I’m interested in data science, programming, and simulation modeling.
 - 🌱 I’m currently learning computer vision and spreadsheet modeling.
 - 📫 How to reach me ...  
    * [LinkedIn](www.linkedin.com/in/brennan-oconnor)
